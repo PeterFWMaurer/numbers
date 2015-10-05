@@ -1,3 +1,4 @@
 1
 de:eins
 en:one
+fr:un

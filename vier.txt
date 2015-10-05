@@ -1,3 +1,4 @@
 4
 de:vier
 en:four
+fr:quattre

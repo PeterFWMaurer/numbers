@@ -2,3 +2,4 @@
 de:eins
 en:one
 fr:un
+it:uno
